@@ -5,7 +5,9 @@ Firmware for a teensy-2.0 with a sd8825 stepper driver.
 Uses AccelStepper library to gove smooth acceleration.
 
 Pins used:
+
 |Arduino Name|AVR Port | Use|
+|-------|---|---|
 |0| PB0 | Dir|
 |1| PB1 | Step|
 |5| PD0 |home sensor in|
